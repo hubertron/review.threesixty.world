@@ -6,7 +6,7 @@ summary:    Selected clips and mountain coaster isolated for BR
 categories: steamboat
 ---
 
-## Day 1 at Steamboat
+## Coaster
 
 Before viewing click the gear icon in the lower right and change resolution to 4k, or 2k if on slow connection.
 
@@ -20,7 +20,7 @@ Steamboat's Outlaw Mountain Coaster, to-do is adding logo where tripod is and po
 
 
 
-## Day 2 at Steamboat
+## Base Party
 
 Before viewing click the gear icon in the lower right and change resolution to 4k, or 2k if on slow connection.
 
